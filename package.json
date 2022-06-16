@@ -1,0 +1,22 @@
+{
+  "name": "javascript_frameworks",
+  "version": "1.0.0",
+  "description": "frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiano0407/javascript_Frameworks.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Chris04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christiano0407/javascript_Frameworks/issues"
+  },
+  "homepage": "https://github.com/Christiano0407/javascript_Frameworks#readme"
+}
